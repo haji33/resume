@@ -1,8 +1,8 @@
-# { name } resume
+# haji33's resume
 
-## Sample
+## Data
 
-https://github.com/kawamataryo/resume
+ページを公開する予定はないためreleaseタグは切らずに利用
 
 ## Features
 
